@@ -26,9 +26,11 @@ __pycache__/
 *.pyc
 lab.py
 .idea
+*.egg-info/
 
 # Virtual environment
 .venv
+venv/
 .conda
 conda
 
@@ -77,3 +79,4 @@ mcp_servers.json
 
 .vscode/
 firebase-debug.log
+.hintrc 
